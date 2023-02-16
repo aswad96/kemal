@@ -647,32 +647,24 @@ https://avia-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #https://devds.site/api/indihoy/hls.m3u8?ch=bein1
 #http://194.233.71.141:5566/play/Bein1-U/index.m3u8
 #http://194.233.71.141:5566/play/Bein1-ID/index.m3u8
-#http://103.167.167.5:8111/play/a02m/index.m3u8
-http://103.226.232.170:9002/play/a001/index.m3u8
+http://103.167.167.5:8111/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSports3Indonesia.id" tvg-name="beIN Sports 3 Indonesia" tvg-logo="https://i.ibb.co/ZTHM86J/BEINSPORTS-3.png" group-title="Sports",beIN Sports 3 Indonesia
 #https://alstv.xyz/usee/bein2.m3u8
 #https://devds.site/api/indihoy/hls.m3u8?ch=bein2
-#http://103.167.167.5:8111/play/a02n/index.m3u8
-http://103.226.232.170:9002/play/a002/index.m3u8
+http://103.167.167.5:8111/play/a02n/index.m3u8
 
 #EXTINF: -1 tvg-id="beINSportsEnglish1.qa" tvg-name="beIN Sports English 1" tvg-logo="https://i.ibb.co/2SWfMF4/beinsportenglish1.png" group-title="Sports",beIN Sports English 1
-#http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/330
 #http://txm1.flysat.live:2089/9152894094/3603122011/254625
-#http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/110.m3u8
-https://no2.onlinewebtv.lol/ddy1/premium61/index.m3u8|referer=https://widevine.licenses4.me/&e=.m3u8
+https://no2.onlinewebtv.lol/ddy1/premium61/index.m3u8|referer=https://widevine.licenses4.me/ user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML\, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
 
 #EXTINF: -1 tvg-id="beINSportsEnglish2.qa" tvg-name="beIN Sports English 2" tvg-logo="https://i.ibb.co/rxyhdWz/beinsportenglish2.png" group-title="Sports",beIN Sports English 2
-#http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/329
 #http://txm1.flysat.live:2089/9152894094/3603122011/254622
-#http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/111.m3u8
-https://no2.onlinewebtv.lol/ddy1/premium90/index.m3u8|referer=https://widevine.licenses4.me/&e=.m3u8
+https://no2.onlinewebtv.lol/ddy1/premium90/index.m3u8|referer=https://widevine.licenses4.me/ user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML\, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
 
 #EXTINF: -1 tvg-id="beINSportsEnglish3.qa" tvg-name="beIN Sports English 3" tvg-logo="https://i.ibb.co/F05tjtr/beinsportenglish3.png" group-title="Sports",beIN Sports English 3
-#http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/328
 #http://txm1.flysat.live:2089/9152894094/3603122011/254619
-#http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/267769.m3u8
-https://no2.onlinewebtv.lol/ddy1/premium46/index.m3u8|referer=https://widevine.licenses4.me/&e=.m3u8
+https://no2.onlinewebtv.lol/ddy1/premium46/index.m3u8|referer=https://widevine.licenses4.me/ user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML\, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
 
 #EXTINF: -1 tvg-id="beINSportsPremium1.qa" tvg-logo="https://i.ibb.co/hXbdBw7/BEINPREMIUM1.png" group-title="Sports",beIN Sports Premium 1
 #http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/76
@@ -719,27 +711,27 @@ https://newtest.webtv1.lol/lb/premium130/index.m3u8?|referer=https://widevine.li
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="" tvg-logo="https://i.ibb.co/ThFrVZP/skyfootball.png" group-title="Sports",SKY SPORTS FOOTBALL
 #http://caballerotv.com:5890/1122334455/1122334455/55869
 #https://webdi.openhd.lol/lb/premium35/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#http://iptvtree.net:8080/fee2bbca/12e32aafa1/266
-https://newtest.webtv1.lol/lb/premium35/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/266
+#https://newtest.webtv1.lol/lb/premium35/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="" tvg-logo="https://i.ibb.co/rwF8F57/skymainevent.png" group-title="Sports",SKY SPORTS MAIN EVENT
 #http://caballerotv.com:5890/1122334455/1122334455/55874
 #https://webdi.openhd.lol/lb/premium38/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-#http://iptvtree.net:8080/fee2bbca/12e32aafa1/283053
-https://newtest.webtv1.lol/lb/premium38/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/283053
+#https://newtest.webtv1.lol/lb/premium38/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="" tvg-logo="https://i.ibb.co/gjhF5Z6/skysportf1.png" group-title="Sports",SKY SPORTS F1
 #http://jadetv.de:80/eagleiptv/SsFAljPDDi/95001
 #http://31.14.41.118:8080/PunisherTVStreams/03CgZ9FYAX/35040
 #http://caballerotv.com:5890/1122334455/1122334455/55868
-#http://iptvtree.net:8080/fee2bbca/12e32aafa1/265
-http://ptv.is:2095/zAz2dftx/czrYyDeu/127990
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/265
+#http://ptv.is:2095/zAz2dftx/czrYyDeu/127990
 
 #EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-name="" tvg-logo="https://i.ibb.co/cbdwy4W/sfootball.png" group-title="Sports",SUPERSPORT FOOTBALL
 #https://webdi.openhd.lol/lb/premium56/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 #http://193.107.202.221:81/giorgi/giorgi/38694
 #http://clientsportals.com:2095/f778W3He/yj7FXRjr/39413
-https://newtest.webtv1.lol/lb/premium56/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://newtest.webtv1.lol/lb/premium56/index.m3u8?|referer=https://widevine.licenses4.me/ user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML\, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
 
 #EXTINF:-1 tvg-id="SuperSportGrandstand.za" tvg-name="" tvg-logo="https://i.ibb.co/sJdHf1p/sgrandstand.png" group-title="Sports",SUPERSPORT GRANDSTAND
 #http://clientsportals.com:2095/f778W3He/yj7FXRjr/39409
@@ -801,32 +793,32 @@ http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52862.ts
 #https://bit.ly/astro1-shareext
 #http://iptvtree.net:8080/fee2bbca/12e32aafa1/146068
 #https://ip-panel.com:443/play/lM_YIIFhHR4TDktapZWZERvpYrjEKF3xbqtpEcB_ZtAHwpDAjKbZ_bBkjqYsl25sUGBw73UobZ8pqlpwdgHA5PzQ0kcvMk0GRegJgEeCditFUhuZ_VtV6K7boKnTzU4G9DuzqelNmoBlJ_1RmAuvCtlQ-CpWga1qDNyW-ta5Cko?ext=.ts
-https://no2.onlinewebtv.lol/ddy1/premium123/index.m3u8?|referer=https://widevine.licenses4.me/
+http://54.37.82.205:8081/liveorigin/my-asp1hd_720/playlist.m3u8
 
 #EXTINF: -1 tvg-id="AstroSuperSport2.my" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="Sports",Astro Supersport 2
 #http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157556
 #https://bit.ly/astro2-shareext
 #http://iptvtree.net:8080/fee2bbca/12e32aafa1/157556
 #https://ip-panel.com:443/play/lM_YIIFhHR4TDktapZWZERvpYrjEKF3xbqtpEcB_ZtAHwpDAjKbZ_bBkjqYsl25sUGBw73UobZ8pqlpwdgHA5PzQ0kcvMk0GRegJgEeCdisQoJZ_YiKXBF0_b3xQbOqCDKj-DD03DL51takF2Wks2D7jqg88kdt84VTVpcKF0XQ?ext=.ts
-https://no2.onlinewebtv.lol/ddy1/premium124/index.m3u8?|referer=https://widevine.licenses4.me/
+http://54.37.82.205:8081/liveorigin/my-asp2hd_720/playlist.m3u8
 
 #EXTINF: -1 tvg-id="AstroSuperSport3.my" tvg-logo="https://i.ibb.co/3yQXb4z/ASSP3.png" group-title="Sports",Astro Supersport 3
 #http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157557
 #https://bit.ly/astro3-shareext
 #http://iptvtree.net:8080/fee2bbca/12e32aafa1/157557
 #https://ip-panel.com:443/play/lM_YIIFhHR4TDktapZWZERvpYrjEKF3xbqtpEcB_ZtAHwpDAjKbZ_bBkjqYsl25sUGBw73UobZ8pqlpwdgHA5PzQ0kcvMk0GRegJgEeCdispaygj4l68u1EWRtLQ7FqYE0ON6gC7Kdbo2cxRNYLrrq66KzX_clgjcUwTxiGt_5E?ext=.ts
-https://no2.onlinewebtv.lol/ddy1/premium125/index.m3u8?|referer=https://widevine.licenses4.me/
+http://54.37.82.205:8081/liveorigin/my-asp3hd_720/playlist.m3u8
 
 #EXTINF: -1 tvg-id="AstroSuperSport4.my" tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png" group-title="Sports",Astro Supersport 4
 #http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157558
 #https://bit.ly/astro4-shareext
 #http://iptvtree.net:8080/fee2bbca/12e32aafa1/157558
 #https://ip-panel.com:443/play/lM_YIIFhHR4TDktapZWZERvpYrjEKF3xbqtpEcB_ZtAHwpDAjKbZ_bBkjqYsl25sUGBw73UobZ8pqlpwdgHA5PzQ0kcvMk0GRegJgEeCdivyQ8pjwcJis-Ek8JAEwPF7oNg_XT8FQhVpnbioIz9rUFZTqXqff8UVD9XE6IXcqUs?ext=.ts
-https://no2.onlinewebtv.lol/ddy1/premium126/index.m3u8?|referer=https://widevine.licenses4.me/
+http://54.37.82.205:8081/liveorigin/my-asp4_720/playlist.m3u8
 
 #EXTINF: -1 tvg-id="AstroSuperSport5.my" tvg-logo="https://i.ibb.co/3WLB6f1/ASSP5.png" group-title="Sports",Astro Supersport 5
 #https://yip.su/Astro5-shareext
-https://no2.onlinewebtv.lol/ddy1/premium43/index.m3u8?|referer=https://widevine.licenses4.me/
+http://54.37.82.205:8081/liveorigin/my-asp5_720/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
